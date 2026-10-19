@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/assets/logo.svg" alt="Lucerna" height="120"></p>
+
 # lucerna-phone
 
 Gerenciador de celulares em Rust: espelhamento e controle pelo scrcpy e um protocolo próprio no lugar do KDE Connect, com TUI e painel no Lucerna.
